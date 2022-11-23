@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @katja-pesonen
-- 👀 I’m interested in Web Design & Front-End Development, coding with JavaScript
-- 🌱 I’m currently learning Web Development / Full Stack Developer
+- 👋 Hi, I’m @katja-pesonen.
+- 👀 I’m interested in Web Design & Full-Stack Development.
+- 🌱 I’m currently doing an internship as a Back-End Developer / Full Stack Developer.
+- :)
 
 <!---
 katja-pesonen/katja-pesonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
