@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katja-pesonen.
 - 👀 Web Design & Full-Stack Development.
-- 🌱 I’m currently doing an internship as a Back-End Developer / Full Stack Developer.
+- 🌱 Work as a Back-End Developer / Full Stack Developer.
 - :)
 
 <!---
